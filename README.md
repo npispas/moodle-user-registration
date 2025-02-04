@@ -167,4 +167,3 @@ This project is licensed under the **GNU GPL-3.0-or-later License**.
 ## 📩 Contact
 🌟 **Created by Nikolaos Pispas**  
 📧 [npispasl@gmail.com](mailto:npispas@gmail.com)
-```
